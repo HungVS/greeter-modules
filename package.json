@@ -1,0 +1,21 @@
+{
+  "name": "greeter-modules",
+  "version": "1.0.1",
+  "description": "Just some ugly modules",
+  "main": "dist/index.js",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "@types/jest": "^25.2.3",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  }
+}
