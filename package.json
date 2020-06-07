@@ -1,6 +1,6 @@
 {
   "name": "greeter-modules",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "Just some ugly modules",
   "main": "dist/index.js",
   "types": "./types/index.d.ts",
